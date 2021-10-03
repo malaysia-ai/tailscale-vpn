@@ -1,6 +1,6 @@
 # zerotier
 
-Easy VPN for Malaysia AI machines.
+Easy VPN for Malaysia AI machines. Feel free to donate any machines for Malaysia AI!
 
 <img src="zerotier.png" width="50%">
 
