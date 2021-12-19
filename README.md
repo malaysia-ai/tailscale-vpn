@@ -24,4 +24,4 @@ Easy VPN for Malaysia AI machines!
 
 4. PM any admin, because we enable manual machine approval.
 
-<img src="manual-approved.png" width="30%">
+<img src="manual-approved.png" width="50%">
