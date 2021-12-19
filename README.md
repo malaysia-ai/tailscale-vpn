@@ -1,4 +1,4 @@
-# zerotier
+# Tailscale
 
 Easy VPN for Malaysia AI machines!
 
