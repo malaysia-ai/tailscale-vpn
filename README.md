@@ -1,16 +1,27 @@
 # zerotier
 
-Easy VPN for Malaysia AI machines. Feel free to donate any machines for Malaysia AI!
+Easy VPN for Malaysia AI machines!
 
-<img src="zerotier.png" width="50%">
+<img src="firsttime-tailscale.png" width="30%">
 
 ## how-to
 
-1. Install zerotier CLI from https://www.zerotier.com/download/
-2. Join Malaysia AI zerotier network,
+1. Install Tailscale at https://tailscale.com/download
 
-```bash
-sudo zerotier-cli join <network-id>
-```
+## login
 
-Contact husein.zol05@gmail.com to get `network-id`.
+1. Go to login,
+
+<img src="tailscale-login.png" width="30%">
+
+2. Give access to Malaysia-AI,
+
+<img src="org-access.png" width="30%">
+
+3. Choose multi-user,
+
+<img src="multi-user.png" width="30%">
+
+4. PM any admin, because we enable manual machine approval.
+
+<img src="manual-approved.png" width="30%">
